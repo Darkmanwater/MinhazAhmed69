@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi there! 👋 I’m Minhaz Ahmed Mustak
 
-<!--
-**MinhazAhmed69/MinhazAhmed69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Front-End Developer | Hackathon Enthusiast | Tech Explorer
 
-Here are some ideas to get you started:
+About Me
+	•	🎓 Second-year student at Sahyadri College of Engineering and Management
+	•	💻 Passionate about front-end development and building interactive user experiences
+	•	🚀 Participated in multiple hackathons across India, always eager to innovate
+	•	📖 Hobby writer – I love expressing my thoughts through books
+	•	👨‍💻 Enthusiastic about coding, teamwork, and leadership
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+
+🌟 Languages & Frameworks:
+	•	C, C++, Java, JavaScript
+	•	React, Tailwind, SASS
+	•	Node.js, Express
+	•	Mobile App Development
+
+Quotes I Live By
+
+	“Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+	“The only way to do great work is to love what you do.” – Steve Jobs
+
+Connect With Me
+
+📫 Email: minhazahmed554@gmail.com
+📞 Phone: 9901320599
+
+Let’s build something awesome together! 🚀
