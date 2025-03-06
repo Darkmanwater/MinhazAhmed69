@@ -11,6 +11,18 @@
 - 📖 Hobby writer – I love expressing my thoughts through books
 - 👨‍💻 Enthusiastic about coding, teamwork, and leadership
 
+## GitHub Stats
+
+![Minhaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhazAhmed69&show_icons=true&count_private=true&hide_title=true&hide=prs)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhazAhmed69&layout=compact&langs_count=6)
+
+## GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MinhazAhmed69&theme=dark)](https://github.com/MinhazAhmed69)
+
 ## Tech Stack
 
 🌟 **Languages & Frameworks:**
