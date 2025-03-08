@@ -2,7 +2,7 @@
 
 🚀 Front-End Developer | Hackathon Enthusiast | Tech Explorer
 
-![Animated Banner](https://media.giphy.com/media/your-gif-link-here/giphy.gif)
+![Animated Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9wNHE4bWtnaTRjcHJjejYyNTIyOGprMmhhb2I2am4xaTBlc3Q0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/27cwIJHxtggIsMtY3i/giphy.gif)
 
 ## About Me
 - 🎓 Second-year student at Sahyadri College of Engineering and Management
@@ -19,9 +19,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhazAhmed69&layout=compact&langs_count=6)
 
-## GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MinhazAhmed69&theme=dark)](https://github.com/MinhazAhmed69)
 
 ## Tech Stack
 
