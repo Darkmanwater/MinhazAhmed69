@@ -39,4 +39,6 @@
 📞 **Phone:** 9901320599  
 🌐 **Portfolio:** [https://minhazahmed.vercel.app/](https://minhazahmed.vercel.app/)
 
+![GitHub Contribution Snake](https://github.com/MinhazAhmed69/MinhazAhmed69/blob/output/github-contribution-grid-snake.svg)
+
 Let’s build something awesome together! 🚀
