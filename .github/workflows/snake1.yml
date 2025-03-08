@@ -12,6 +12,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Create dist folder
+        run: mkdir -p dist
+
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
         with:
